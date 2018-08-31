@@ -16,5 +16,5 @@ python lstm.py
 You can read our paper for the Original version of our lstm model, which is used fro cross-language sentiment classification.
 * Jointly learning bilingual sentiment and semantic representations for cross-language sentiment classification
 
-###Version
+### Version
 This is a test of yang
